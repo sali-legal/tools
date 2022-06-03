@@ -8,4 +8,14 @@ This code, in  Ruby, will:
   - Browse the LMSS
   - Search the LMSS
   - Filter the LMSS
+  - View LMSS's descriptions
   - Select an item from the LMSS
+
+# Typeahead
+![chrome_MC0TENDPL9](https://user-images.githubusercontent.com/19674126/171929091-507d7916-aac1-4c90-9354-9a37e9df93ce.gif)
+
+# Filter
+![chrome_iDWKFyCEG2](https://user-images.githubusercontent.com/19674126/171929806-65fabbf8-ef33-4dbe-833f-a94dae151318.gif)
+
+# Browse
+![chrome_bjKwrcsVnk](https://user-images.githubusercontent.com/19674126/171930079-e27904c4-e6a2-4967-be5e-4f9774472310.gif)
